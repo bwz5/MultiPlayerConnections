@@ -1,0 +1,12 @@
+[submodule "server/lib/raylib"]
+	path = server/lib/raylib
+	url = https://github.com/raysan5/raylib.git
+[submodule "server/lib/enet"]
+	path = server/lib/enet
+	url = https://github.com/lsalzman/enet.git
+[submodule "client/lib/enet"]
+	path = client/lib/enet
+	url = https://github.com/lsalzman/enet.git
+[submodule "client/lib/raylib"]
+	path = client/lib/raylib
+	url = https://github.com/raysan5/raylib.git
